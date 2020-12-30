@@ -21,25 +21,25 @@
 ### Resistors
 |Amount|Value|Part|
 |------|-----|----|
-|6x|Resistor|68 1/4W|R19, R20, R21, R34, R38, R43|
-|4x|Resistor|75 1/4W|R39, R40, R41, R42|
-|1x|Resistor|150 1/4W|R8|
-|3x|Resistor|270 1/4W|R12, R18, R48|
-|5x|Resistor|470 1/4W|R7, R9, R15, R16, R32|
-|3x|Resistor|2.2K 1/4W|R25, R28, R31|
-|1x|Resistor|2.7K 1/4W|R49|
-|3x|Resistor|3.9K 1/4W|R24, R27, R30|
-|1x|Resistor|4.7K 1/4W|R17|
-|8x|Resistor|10K 1/4W|R3, R4, R5, R6, R10, R11, R22, R36|
-|3x|Resistor|12K 1/4W|R35, R45, R46|
-|3x|Resistor|18K 1/4W|R23, R26, R29|
-|1x|Resistor|22K 1/4W|R47|
-|1x|Resistor|33K 1/4W|R33|
-|1x|Resistor|100K 1/4W|R44|
-|1x|Resistor|470K 1/4W – optional|R37|
-|1x|Resistor|4.7M 1/4W|R50|
-|2x|Resistor|10K*8 network 9 pin|R1, R2|
-|1x|Resistor|4.7K*8 8x DIP package|R13|
+|6x|68 1/4W|R19, R20, R21, R34, R38, R43|
+|4x|75 1/4W|R39, R40, R41, R42|
+|1x|150 1/4W|R8|
+|3x|270 1/4W|R12, R18, R48|
+|5x|470 1/4W|R7, R9, R15, R16, R32|
+|3x|2.2K 1/4W|R25, R28, R31|
+|1x|2.7K 1/4W|R49|
+|3x|3.9K 1/4W|R24, R27, R30|
+|1x|4.7K 1/4W|R17|
+|8x|10K 1/4W|R3, R4, R5, R6, R10, R11, R22, R36|
+|3x|12K 1/4W|R35, R45, R46|
+|3x|18K 1/4W|R23, R26, R29|
+|1x|22K 1/4W|R47|
+|1x|33K 1/4W|R33|
+|1x|100K 1/4W|R44|
+|1x|470K 1/4W – optional|R37|
+|1x|4.7M 1/4W|R50|
+|2x|10K*8 network 9 pin|R1, R2|
+|1x|4.7K*8 8x DIP package|R13|
 
 ### Capacitors
 
