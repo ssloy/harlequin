@@ -18,6 +18,8 @@
 |1x|B40R 2A 80V bridge rectifier|D12|
 |1x|1N5822|D13|
 
+![](https://raw.githubusercontent.com/ssloy/harlequin/main/photos/IMG_20201228_233753.jpg)
+
 ### Resistors
 |Amount|Value|Part|
 |------|-----|----|
@@ -40,6 +42,9 @@
 |1x|4.7M 1/4W|R50|
 |2x|10K*8 network 9 pin|R1, R2|
 |1x|4.7K*8 8x DIP package|R13|
+
+![](https://raw.githubusercontent.com/ssloy/harlequin/main/photos/IMG_20201229_020157.jpg)
+
 
 ### Capacitors
 
