@@ -1,5 +1,13 @@
-# Harlequin Superfo rev G
-## Bill of materials
+# Harlequin Superfo rev G assembly guide
+
+### SMD parts
+|Amount|Value|Part|
+|------|-----|----|
+|1x|SMD Power Inductor CD104 68uH|L1|
+|1x|LM2596S-5.0 TO-263-5|U46|
+|1x|AD724 SOP-16|U48|
+
+![](https://raw.githubusercontent.com/ssloy/harlequin/main/photos/IMG_20201228_225638.jpg)
 
 ### Diodes
 |Amount|Value|Part|
