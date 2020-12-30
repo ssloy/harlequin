@@ -1,13 +1,18 @@
 # Harlequin Superfo rev G
 ## Bill of materials
 
-| Amount  | Type |Value|Part|
-| ------------- | ------------- |------------- |------------- |
-|1x|Diode|1N4148 7.5mm|D9|
-|1x|Diode|1N4740A 7.5mm|D10|
-|1x|Diode|1N4742A 7.5mm|D11|
-|1x|Diode|B40R 2A 80V bridge rectifier|D12|
-|1x|Diode|1N5822|D13|
+### Diodes
+|Amount|Value|Part|
+|------|-----|----|
+|1x|1N4148 7.5mm|D9|
+|1x|1N4740A 7.5mm|D10|
+|1x|1N4742A 7.5mm|D11|
+|1x|B40R 2A 80V bridge rectifier|D12|
+|1x|1N5822|D13|
+
+### Resistors
+|Amount|Value|Part|
+|------|-----|----|
 |6x|Resistor|68 1/4W|R19, R20, R21, R34, R38, R43|
 |4x|Resistor|75 1/4W|R39, R40, R41, R42|
 |1x|Resistor|150 1/4W|R8|
@@ -27,6 +32,9 @@
 |1x|Resistor|4.7M 1/4W|R50|
 |2x|Resistor|10K*8 network 9 pin|R1, R2|
 |1x|Resistor|4.7K*8 8x DIP package|R13|
+
+### Capacitors
+
 12 x	Capacitor	100nF 3.5mm pin distance	C9, C10, C11, C12, C13, C14, C15, C16, C17, C19, C20, C21
 12 x	Capacitor	100nF 2.5mm pin distance	C4, C5, C7, C8, C22, C23, C24, C26, C30, C31, C33, C34
 2 x	Capacitor	10pF 2.5mm pin distance	C25, C37
